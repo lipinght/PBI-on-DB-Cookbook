@@ -1,5 +1,5 @@
 -- Databricks notebook source
-SET landing_area_path = "/user/marius.panga@databricks.com/DAIS/source/stream"
+SET landing_area_path = "<data_path>/source/stream"
 
 -- COMMAND ----------
 
