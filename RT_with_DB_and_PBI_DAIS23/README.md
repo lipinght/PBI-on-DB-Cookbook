@@ -1,4 +1,6 @@
-In this technical post we cover the technical assets for three near-real-time reporting scenarios with the powerful combination of Databricks and Power BI. To gain a deeper understanding of these scenarios, we encourage you to explore the full talk at the [Data and AI Summit 2023](https://www.databricks.com/dataaisummit/). You can access the session details and the talk itself by following this link: [Data and AI Summit 2023 - Streaming Data Analytics with Power BI and Databricks](https://www.databricks.com/dataaisummit/session/streaming-data-analytics-power-bi-and-databricks/)
+In this technical post we cover the technical assets for three near-real-time reporting scenarios with the powerful combination of Databricks and Power BI. 
+
+To gain a deeper understanding of these scenarios, we encourage you to explore the full talk at the [Data and AI Summit 2023](https://www.databricks.com/dataaisummit/). You can access the session details and the talk itself by following this link: [Data and AI Summit 2023 - Streaming Data Analytics with Power BI and Databricks](https://www.databricks.com/dataaisummit/session/streaming-data-analytics-power-bi-and-databricks/)
 
 # Scenarios Covered
 
