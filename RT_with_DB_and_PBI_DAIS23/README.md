@@ -9,7 +9,7 @@ To gain a deeper understanding of these scenarios, we encourage you to explore t
 - [Structured Streaming + Power BI streaming dataset](../RT_with_DB_and_PBI_DAIS23/Scenario3_Structured_Streaming_API)
 
 # Architecture
-![](../RT_with_DB_and_PBI_DAIS23/img/arch_whole.jpg)
+![](/RT_with_DB_and_PBI_DAIS23/img/arch_whole.jpg)
 
 # Sample Data
 
