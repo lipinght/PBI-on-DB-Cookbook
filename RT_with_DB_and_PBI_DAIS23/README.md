@@ -8,6 +8,8 @@ To gain a deeper understanding of these scenarios, we encourage you to explore t
 - [DLT + Power BI Composite models + Power BI page refresh](../RT_with_DB_and_PBI_DAIS23/Scenario2_DLT_Composite)
 - [Structured Streaming + Power BI streaming dataset](../RT_with_DB_and_PBI_DAIS23/Scenario3_Structured_Streaming_API)
 
+# Architecture
+![](/RT_with_DB_and_PBI_DAIS23/img/arch_whole.jpg)
 
 # Sample Data
 
