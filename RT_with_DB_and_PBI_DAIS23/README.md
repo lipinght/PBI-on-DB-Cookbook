@@ -2,6 +2,8 @@ In this technical post we cover the technical assets for three near-real-time re
 
 To gain a deeper understanding of these scenarios, we encourage you to explore the full talk at the [Data and AI Summit 2023](https://www.databricks.com/dataaisummit/). You can access the session details and the talk itself by following this link: [Data and AI Summit 2023 - Streaming Data Analytics with Power BI and Databricks](https://www.databricks.com/dataaisummit/session/streaming-data-analytics-power-bi-and-databricks/)
 
+The slides of the presentation can be found [here](../RT_with_DB_and_PBI_DAIS23/slides).
+
 # Scenarios Covered
 
 - [Delta Live Tables (DLT) + Power BI Direct Query + Power BI auto page refresh](../RT_with_DB_and_PBI_DAIS23/Scenario1_DLT_DQ)
