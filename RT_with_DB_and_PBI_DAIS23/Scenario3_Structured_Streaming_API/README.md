@@ -3,7 +3,7 @@
 
 # Demo Prep
 
-* Download the the files in [Scenario 3 Structured Streaming API folder](../RT_with_DB_and_PBI_DAIS23/Scenario3_Structured_Streaming_API)
+* Download the the files in [Scenario 3 Structured Streaming API folder](../Scenario3_Structured_Streaming_API)
 * Import notebooks into Databricks workspace
 * Populate relevant <data_path> in the notebooks
 
