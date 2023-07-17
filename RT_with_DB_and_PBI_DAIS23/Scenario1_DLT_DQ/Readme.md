@@ -4,7 +4,7 @@
 
 # Demo Prep
 
-* Download the the files in [Data Generator folder](../RT_with_DB_and_PBI_DAIS23/Data_Generator) and [Scenario 1 DLT DQ folder](../RT_with_DB_and_PBI_DAIS23/Scenario1_DLT_DQ)
+* Download the the files in [Data Generator folder](../Data_Generator) and [Scenario 1 DLT DQ folder](../Scenario1_DLT_DQ)
 * Import notebooks into Databricks workspace
 * Populate relevant <data_path> in the notebooks
 
