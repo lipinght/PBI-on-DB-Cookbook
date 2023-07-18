@@ -12,7 +12,7 @@ CREATE STREAMING LIVE TABLE internetsales(
 COMMENT "Internet Sales bronze table, streamed from the landing area."
 -- Populate the table with data selected from cloud_files function, which automatically uses Databticks AutoLoader(https://learn.microsoft.com/en-gb/azure/databricks/ingestion/auto-loader/) 
 AS SELECT * 
-FROM cloud_files("/user/marius.panga@databricks.com/DAIS/source/stream", "json", map("cloudFiles.inferColumnTypes" , "true"))
+FROM cloud_files(landing_area_path, "json", map("cloudFiles.inferColumnTypes" , "true"))
 
 -- COMMAND ----------
 
